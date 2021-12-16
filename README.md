@@ -1,5 +1,6 @@
 ---
 coverY: 0
+cover: .gitbook/assets/GITBOOK_BANNER_WASABI.png
 ---
 
 # Why we recommend Wasabi wallet
