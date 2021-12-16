@@ -8,7 +8,7 @@ Wasabi implements a technique called Coin Control by default. When you are sendi
 
 Think of bitcoins as actual physical coins of different amounts in your pocket. You can combine some of those coins if the amount of a single one is insufficient. If the amount of a coin is greater than the amount needed to send, you will get change back.
 
-**\[Image displaying the idea of a UTXO]**
+![Visual representation of Bitcoin UTXO's](../.gitbook/assets/utxo-preview.png)
 
 #### **Labeling**
 
