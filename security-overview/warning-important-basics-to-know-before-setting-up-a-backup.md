@@ -21,6 +21,4 @@ The backup consists of a series of words generated randomly by the Bitcoin walle
 ## <mark style="color:red;">5. Don't take a picture, print or share your words</mark>
 {% endhint %}
 
-**{image that show the above flows on how you can you lose your funds}**
-
-**4 images containing password and seed phrase: Big ‘X’ on passphrase Big ‘X’ on seedphrase Big ‘X’ on both Checkmark on both = you still have your funds**
+![](../.gitbook/assets/how-to-lose-btc.png)
