@@ -5,7 +5,7 @@ cover: .gitbook/assets/GITBOOK_BANNER_WASABI_1920x1080.png
 
 # Why we recommend Wasabi wallet
 
-Wasabi is an open-source, Bitcoin-only wallet for Desktop. It is privacy-focused, and offers some of the highest security standards. It is easy to use once you overcome a small learning curve. It is fully non-custodial and access to funds can never be restricted. It has a large community of users and the development team is transparent and reputable. Many advanced features are also available. The wallet account management interface makes it a good choice for small business owners.
+Wasabi is an open-source, Bitcoin-only wallet for Desktop. It is privacy-focused, and offers some of the highest security standards. It is easy to use once you overcome a small learning curve. It is fully non-custodial and access to funds can never be restricted. It has a large community of users and the development team is transparent and reputable. Many advanced features are also available. Although the wallet primarily targets end users, the wallet account management interface makes it a good choice for small business owners.
 
 {% hint style="success" %}
 You can use Wasabi Wallet in combination with all major hardware wallets.
@@ -17,7 +17,6 @@ You can use Wasabi Wallet in combination with all major hardware wallets.
 * ✅Easy backup and recovery
 * ✅Highest privacy available
 * ✅Advanced transaction features
-* ✅Good long-term solution
 * ✅Compatible with hardware wallets
 * ✅Reputable and renown
 * ✅Setup time: 30 minutes
