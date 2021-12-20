@@ -17,7 +17,7 @@ You can use Wasabi Wallet in combination with all major hardware wallets.
 * ✅Easy backup and recovery
 * ✅Highest privacy available
 * ✅Advanced transaction features
-* ✅Good long-term solution
+* ✅Acceptable as a long-term solution
 * ✅Compatible with hardware wallets
 * ✅Reputable and renown
 * ✅Setup time: 30 minutes
@@ -30,7 +30,7 @@ You can use Wasabi Wallet in combination with all major hardware wallets.
 
 **This is the ideal wallet for those wanting to get set up quickly and securely on their desktop computer (Mac, Windows and Linux).**
 
-* Buying Bitcoin from a non-custodial exchange.&#x20;
-* Ability to transact with Bitcoin on a laptop (funding exchanges, making payments).&#x20;
-* Storing Bitcoin with backups for long-term before upgrading to a hardware wallet.&#x20;
+* Buying Bitcoin from a non-custodial exchange.
+* Ability to transact with Bitcoin on a laptop (funding exchanges, making payments).
+* Storing Bitcoin with backups for long-term before upgrading to a hardware wallet.
 * Managing different wallets for different purposes.
