@@ -13,6 +13,6 @@
 8. The outbound transaction will appear in the "Transactions" tab and the coins will be deducted from the available balance in the "Send" tab.
    * If you did not send the full amount available to spend, you will receive some new coins that you will see in the "Send" tab. That is the change that is sent back to you after you sent the payment.
 
-#### <mark style="color:red;">Read about the benefits of Bitcoin privacy/coin control</mark>
+#### <mark style="color:red;"></mark>[<mark style="color:red;">Read about the benefits of Bitcoin privacy</mark>](https://medium.com/bull-bitcoin/the-benefits-of-privacy-f728d5215308)<mark style="color:red;"></mark>
 
 ![](<../.gitbook/assets/Wasabi send.gif>)

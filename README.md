@@ -24,8 +24,6 @@ You can use Wasabi Wallet in combination with all major hardware wallets.
 * ❌Not available on mobile
 * ❌Less secure than hardware wallet
 
-#### <mark style="color:red;">**Read about the benefits of self-custody**</mark>
-
 ### **What is this all for?**
 
 **This is the ideal wallet for those wanting to get set up quickly and securely on their desktop computer (Mac, Windows and Linux).**
