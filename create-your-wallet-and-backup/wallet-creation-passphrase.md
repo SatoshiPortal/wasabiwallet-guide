@@ -5,7 +5,7 @@ The next step involves choose a name and passphrase for the Bitcoin wallet. Befo
 ![](<../.gitbook/assets/image (1).png>)
 
 {% hint style="warning" %}
-Wasabi wallet will use the term "password", but it actually refers to you passphrase.
+Wasabi wallet will use the term "password", but it actually refers to a passphrase.
 {% endhint %}
 
 ## **⛔️ **<mark style="color:red;">**WARNING !**</mark> <mark style="color:red;"></mark><mark style="color:red;">Take a few minutes to choose the right passphrase for your wallet. No rush! Do not skip this part!</mark>
@@ -13,8 +13,8 @@ Wasabi wallet will use the term "password", but it actually refers to you passph
 ### Passphrase Security Basics
 
 * Write down the passphrase you want to use before entering it in your computer.
-* Use English words for your passphrase.
-* Use up to 12 words for maximum security.
+* Use a combination of words as a passphrase to have less trouble remembering it.
+* Use at least 12 characters in your passphrase, 24 characters offer more security. &#x20;
 * The passphrase is required every time you want to use the app.
 * If someone has access to your computer, the passphrase will prevent them from taking your Bitcoin.
 * Ideally, create a unique passphrase that nobody can guess but that you can remember.
