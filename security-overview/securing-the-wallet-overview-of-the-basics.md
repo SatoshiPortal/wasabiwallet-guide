@@ -31,5 +31,5 @@ They will not be able to recover your Bitcoin wallets without the password
 {% hint style="danger" %}
 ### <mark style="color:red;">**WARNING**</mark>
 
-If someone has access to both your Seed Backup your Passphrase, they can steal your Bitcoin! **DO NOT KEEP A COPY OF THEM IN THE SAME PLACE!**
+If someone has access to both your Seed Backup and your Passphrase, they can steal your Bitcoin! **DO NOT KEEP A COPY OF THEM IN THE SAME PLACE!**
 {% endhint %}
