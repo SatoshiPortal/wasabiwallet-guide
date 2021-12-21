@@ -1,6 +1,6 @@
 # Wallet creation - Passphrase
 
-The next step involves choose a name and passphrase for the Bitcoin wallet. Before doing that, read below to know the passphrase security basics.
+The next step involves choosing name and password for your Bitcoin wallet. Wasabi also uses your password as your passphrase: the 13th word to your 12 word backup. Before doing that, read below to know the passphrase security basics.
 
 ![](<../.gitbook/assets/image (1).png>)
 
