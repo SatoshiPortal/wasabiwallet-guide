@@ -21,7 +21,7 @@ If Wasabi Wallet suddenly goes out of business and they remove their application
 
 9\. Wasabi Wallet will ask you once to re-enter the password to make sure you know it.
 
-10\. Once the backup is written down and you validate your password, click on “Load Wallet”.
+10\. Once the backup is written down and you confirmed your password, click on “Load Wallet”.
 
 ### **You now have a Bitcoin wallet!**
 
