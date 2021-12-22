@@ -20,7 +20,7 @@ You can use Wasabi Wallet in combination with all major hardware wallets.
 * ✅Acceptable as a long-term solution
 * ✅Compatible with hardware wallets
 * ✅Reputable and renown
-* ✅Setup time: 30 minutes
+* ✅Setup time: 45 minutes
 * ❌Not available on mobile
 * ❌Less secure than hardware wallet
 
