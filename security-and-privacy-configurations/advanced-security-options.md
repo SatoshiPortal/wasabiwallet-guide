@@ -21,7 +21,7 @@ This feature allows you to lock your wallet while it is running or stop it from 
 1. Hit Ctrl-L on your keyboard.&#x20;
 2. On the top left menu bar, click on File, then Lock Screen.
 
-This feature only locks the interface, it is not a fail-safe lock on your wallet. Anyone with the knowledge of the PIN can circumvent this feature.
+This feature only locks the interface, it is not a fail-safe lock on your wallet. Anyone with the knowledge of the PIN or Wasabi's inner workings can circumvent this feature if they access your computer.
 
 ### Connect to your own full node&#x20;
 
