@@ -25,7 +25,7 @@ This feature only locks the interface, it is not a fail-safe lock on your wallet
 
 ### Connect to your own full node&#x20;
 
-Connecting to your own node enables you to maintain a private connection to the Bitcoin network, else you are connecting to someone else that might be trying to deanonymize you. This is also your means of transacting without restrictions and for avoiding being defrauded.
+Connecting to your own node enables you to fetch information from it that Wasabi would otherwise fetch from external sources. Using Wasabi this way should give you more confidence about your privacy, because it simplifies some otherwise complex mechanisms. This is also your means of transacting without restrictions and for avoiding being defrauded. It's important to note that Wasabi's full node integration is still in experimental status.
 
 #### **On the main menu, go to Tools, then Settings**
 
