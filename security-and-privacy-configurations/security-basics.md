@@ -12,5 +12,5 @@ Wasabi Wallet is one of the safest ways you can use Bitcoin if you are not using
 {% hint style="info" %}
 * See their [<mark style="color:red;">Codebase</mark>](https://github.com/zkSNACKs/WalletWasabi/)<mark style="color:red;"></mark>
 * Additional [<mark style="color:red;">Documentation</mark>](https://docs.wasabiwallet.io)<mark style="color:red;"></mark>
-* [<mark style="color:red;">Telegram</mark>](https://t.me/WasabiWallet) support group
+* [<mark style="color:red;">GitHub Discussions</mark>](https://github.com/zkSNACKs/WalletWasabi/discussions/categories/support) support
 {% endhint %}
