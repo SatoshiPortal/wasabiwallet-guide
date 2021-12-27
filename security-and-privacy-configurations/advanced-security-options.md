@@ -34,4 +34,4 @@ There are three different ways of using your Bitcoin full node with Wasabi:&#x20
 1. If you already have a full node on your computer, Wasabi will detect it.
 2. You can connect to a remote node by specifying the local network IP address or Tor onion.&#x20;
    * Enter the node IP address under “Alternative Block Source for Main”
-3. You can start Bitcoin Knots in Wasabi wallet to begin downloading and running your own node on your computer
+3. You can start Bitcoin Knots in Wasabi wallet to begin downloading and running your own node on your computer. While previous alternatives only fetch blocks from your full node, this mode goes well beyond that, it utilizes the full node for various other services, like fetching network fees and using its mempool as source of truth for receiving unconfirmed transactions and detecting double spends.
