@@ -4,9 +4,9 @@ You have to create a backup and hide it and make sure you don’t store it at th
 
 ![](../.gitbook/assets/image.png)
 
-1. Click the “Generate” button**.**
+1. Click the “Next” button. A series of words will be generated.
 2. Take your time and write them down correctly. Make sure that the words are easily readable and in the correct order.
-3. Write down the number in front of each word, to make sure you know what the correct order is.&#x20;
+3. Write down the number in front of each word, to make sure you know what the correct order is.
 4. <mark style="color:red;">**Triple check to make sure.**</mark>
 5. <mark style="color:red;">**Triple check to make sure.**</mark>
 6. <mark style="color:red;">**Triple check to make sure.**</mark>
