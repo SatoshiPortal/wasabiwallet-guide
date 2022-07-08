@@ -1,16 +1,4 @@
-# Sending Bitcoin - Overview
-
-### To send Bitcoin using Wasabi, all you need is the Bitcoin address of the recipient.
-
-#### **Coin Control**
-
-Wasabi implements a technique called Coin Control by default. When you are sending transactions, you must select the individual coins available in your wallet, also known as Unspent Transaction Outputs (UTXO), that you wish to send. You can select several at a time if the balance you wish to send exceeds the balance of any one UTXO.
-
-Think of bitcoins as actual physical coins of different amounts in your pocket. You can combine some of those coins if the amount of a single one is insufficient. If the amount of a coin is greater than the amount needed to send, you will get change back.
-
-![Visual representation of Bitcoin UTXO's](../.gitbook/assets/utxo-preview.png)
-
-#### **Labeling**
+# About Labeling
 
 For every bitcoin transaction you send and receive, it is important to identify who is observing that transaction. The label serves the purpose of making sure that we are aware of who is sending us coins and who we are sending them to. Bitcoin transactions being public, we want to avoid as much as possible revealing our transaction history to anyone that might be keeping track of us.
 

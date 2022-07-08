@@ -13,4 +13,4 @@
 
 The outbound transaction will appear in your Dashboard and the balance will also be updated.&#x20;
 
-![](<../.gitbook/assets/Send gif.gif>)
+![](<../../.gitbook/assets/Send gif.gif>)

@@ -20,8 +20,8 @@
 ## 🔃 How to use Bitcoin with Wasabi Wallet
 
 * [Steps for receiving Bitcoin payments](how-to-use-bitcoin-with-wasabi-wallet/steps-for-receiving-bitcoin-payments.md)
-* [Sending Bitcoin - Overview](how-to-use-bitcoin-with-wasabi-wallet/sending-bitcoin-overview.md)
-* [Steps for Sending Bitcoin](how-to-use-bitcoin-with-wasabi-wallet/steps-for-sending-bitcoin.md)
+* [Steps for Sending Bitcoin](how-to-use-bitcoin-with-wasabi-wallet/steps-for-sending-bitcoin/README.md)
+  * [About Labeling](how-to-use-bitcoin-with-wasabi-wallet/steps-for-sending-bitcoin/about-labeling.md)
 
 ## 🔎 Security & Privacy Configurations
 
