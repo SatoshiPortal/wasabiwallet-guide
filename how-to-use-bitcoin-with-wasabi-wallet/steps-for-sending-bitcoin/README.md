@@ -11,6 +11,12 @@
    * You can adjust the fee rate by clicking on the clipboard icon.
    * You have a sliding bar to adjust the fee amount depending on how quickly you want this transaction to be accepted by the network. There are several methods of looking up the current fee rate, one being <mark style="color:red;"></mark> [<mark style="color:red;">mempool.space</mark>](http://mempool.space).
 
+{% hint style="info" %}
+The wallet might present you with tips for increasing the degree privacy of you transaction. Just hover over the shield icon in the Preview Transaction module to see what you can do.
+
+&#x20;<img src="../../.gitbook/assets/Screen Shot 2022-07-08 at 6.16.53 PM.png" alt="" data-size="original">
+{% endhint %}
+
 The outbound transaction will appear in your Dashboard and the balance will also be updated.&#x20;
 
 ![](<../../.gitbook/assets/Send gif.gif>)
