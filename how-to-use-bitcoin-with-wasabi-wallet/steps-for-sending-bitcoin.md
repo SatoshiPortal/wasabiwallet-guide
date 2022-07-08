@@ -1,19 +1,16 @@
 # Steps for Sending Bitcoin
 
-1. Select the coins you want to spend.
-2. Paste the bitcoin address of the recipient in the address field.
-3. Write a label for this transaction, so you know what the transaction was for or who you sent it to.
-4. Enter the amount to send. It must be lower than the total value of the coins that were selected for spending or the wallet balance.
-   * Press the “Max” button to send the whole selected amount (if you want to move the funds to another wallet you control).&#x20;
-   * The amount you enter must be in Bitcoin. Wasabi provides an estimated value in fiat currencies.
-5. Select a mining fee.
-   1. You have a sliding bar to adjust the fee amount depending on how quickly you want this transaction to be accepted by the network. There are several methods of looking up the current fee rate, one being <mark style="color:red;"></mark> [<mark style="color:red;">mempool.space</mark>](http://mempool.space).
-   2. To enable amount customization past what the sliding bar offers, go to the "Tools" tab, select "Settings", and enable "Manual Fee Entry".
-6. Enter the password.
-7. Click “Send Transaction”.
-8. The outbound transaction will appear in the "History" tab and the coins will be deducted from the available balance in the "Send" tab.
-   * If you did not send the full amount available to spend, you will receive some new coins that you will see in the "Send" tab. That is the change that is sent back to you after you sent the payment.
+1. Click on `Send` in the top right corner.
+2. Insert the recipient's bitcoin address to the right of the `To` field.
+3. Enter the amount you wish to send.&#x20;
+   * You can switch between BTC and USD denominations using the arrows.&#x20;
+   * Click on Advanced options to enter a custom fee rate (this can also be adjusted later).
+4. Click on `Continue`.
+5. Enter a label to identify the recipient and click on `Continue`.
+6. Verify that the information is correct and click on `Confirm`.
+   * You can adjust the fee rate by clicking on the clipboard icon.
+   * You have a sliding bar to adjust the fee amount depending on how quickly you want this transaction to be accepted by the network. There are several methods of looking up the current fee rate, one being <mark style="color:red;"></mark> [<mark style="color:red;">mempool.space</mark>](http://mempool.space).
 
-#### <mark style="color:red;"></mark>[<mark style="color:red;">Read about the benefits of Bitcoin privacy</mark>](https://medium.com/bull-bitcoin/the-benefits-of-privacy-f728d5215308)<mark style="color:red;"></mark>
+The outbound transaction will appear in your Dashboard and the balance will also be updated.&#x20;
 
-![](<../.gitbook/assets/Wasabi send.gif>)
+![](<../.gitbook/assets/Send gif.gif>)

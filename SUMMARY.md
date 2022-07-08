@@ -13,8 +13,9 @@
 
 * [What you need](create-your-wallet-and-backup/what-you-need.md)
 * [Installing the app](create-your-wallet-and-backup/installing-the-app.md)
-* [Wallet creation - Passphrase](create-your-wallet-and-backup/wallet-creation-passphrase.md)
-* [Wallet creation - Backup](create-your-wallet-and-backup/wallet-creation-backup.md)
+* [Wallet Setup](create-your-wallet-and-backup/wallet-creation-passphrase/README.md)
+  * [About your password](create-your-wallet-and-backup/wallet-creation-passphrase/about-your-password.md)
+  * [About your recovery words](create-your-wallet-and-backup/wallet-creation-passphrase/about-your-recovery-words.md)
 
 ## 🔃 How to use Bitcoin with Wasabi Wallet
 
@@ -25,7 +26,7 @@
 ## 🔎 Security & Privacy Configurations
 
 * [Security Basics](security-and-privacy-configurations/security-basics.md)
-* [Advanced Security Options](security-and-privacy-configurations/advanced-security-options.md)
+* [Additional Security Options](security-and-privacy-configurations/advanced-security-options.md)
 
 ## ⚠ Summary
 

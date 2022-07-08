@@ -2,18 +2,18 @@
 
 ### **There are 2 security mechanisms that prevent you from accidental loss or theft of your Bitcoin:**
 
-1. Seed Backup recovery codes&#x20;
+1. Seed Backup recovery codes
 2. Wallet passphrases
 
 #### **If you lose your computer or wallet file**
 
-* The Seed Backup allows you to recover your Bitcoin wallets&#x20;
+* The Seed Backup allows you to recover your Bitcoin wallets
 * Your Passphrase allows you to unlock the recovered Bitcoin wallets
 
 {% hint style="danger" %}
-### <mark style="color:red;">**WARNING**</mark>
+#### <mark style="color:red;">**WARNING**</mark>
 
-Both the Seed Backup and the Passphrase are required to recover a lost wallet. **If you lose the Seed Backup OR the Passphrase, **_**you will not be able to recover access to your Bitcoin**_ if you lose your computer.
+Both the Seed Backup and the Passphrase are required to recover a lost wallet. **If you lose the Seed Backup OR the Passphrase, \_you will not be able to recover access to your Bitcoin**\_ if you lose your computer.
 {% endhint %}
 
 #### **If someone steals your computer**
@@ -29,7 +29,7 @@ They will be able to unlock the device, but they will not have access to your Bi
 They will not be able to recover your Bitcoin wallets without the password
 
 {% hint style="danger" %}
-### <mark style="color:red;">**WARNING**</mark>
+#### <mark style="color:red;">**WARNING**</mark>
 
 If someone has access to both your Seed Backup and your Passphrase, they can steal your Bitcoin! **DO NOT KEEP A COPY OF THEM IN THE SAME PLACE!**
 {% endhint %}
