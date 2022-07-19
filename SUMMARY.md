@@ -22,6 +22,7 @@
 * [Steps for receiving Bitcoin payments](how-to-use-bitcoin-with-wasabi-wallet/steps-for-receiving-bitcoin-payments.md)
 * [Steps for Sending Bitcoin](how-to-use-bitcoin-with-wasabi-wallet/steps-for-sending-bitcoin/README.md)
   * [About Labeling](how-to-use-bitcoin-with-wasabi-wallet/steps-for-sending-bitcoin/about-labeling.md)
+  * [Privacy/Coin Control](how-to-use-bitcoin-with-wasabi-wallet/steps-for-sending-bitcoin/privacy-coin-control.md)
 
 ## 🔎 Security & Privacy Configurations
 
